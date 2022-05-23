@@ -2,4 +2,5 @@
 part 브랜치에서 수정합니다.
 
 ---
-pull VS fetch 사용하기 로컬에서 수정
+pull VS fetch 사용하기 로컬과 원격에서 수정
+
